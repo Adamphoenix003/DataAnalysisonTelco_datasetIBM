@@ -1,5 +1,6 @@
 # DataAnalysisonTelco_datasetIBM
-A PowerBI dashboard is made to analyze the Telco_dataset of IBM and gather insights from the data.
+A PowerBI dashboard is made to analyze the Telco_dataset(Customer Churn) of IBM and gather insights from the data.
+First Dashboard gather insights from the overall customers  about customer churn where the second dashboard gather details about the High Value Customers' Churn and their effect on revenue <br><br>
 Insights from the Dashboard:<br>
 
 
